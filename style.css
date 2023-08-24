@@ -64,6 +64,10 @@ h2{
 
 .btn:hover{
   background-color:darkgreen;
+<<<<<<< HEAD
+=======
+  cursor: pointer;
+>>>>>>> c0ab7a0 (minor changes)
 }
 
 p{
